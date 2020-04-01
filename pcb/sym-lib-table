@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name kbd)(type Legacy)(uri /home/ronniebathoorn/Documents/Keyboard/libs/kbd-master/library/kbd.lib)(options "")(descr ""))
+  (lib (name SKQUAAA010)(type Legacy)(uri /home/ronniebathoorn/Documents/Keyboard/libs/SKQUAAA010/SKQUAAA010.lib)(options "")(descr ""))
+)
